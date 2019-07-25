@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Farshad L. Miraftab</title>
-		<link>farshadl123.github.io/posts/</link>
+		<link>/posts/</link>
 		<description>Recent content in Posts on Farshad L. Miraftab</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
-		<atom:link href="farshadl123.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Example Post</title>
-			<link>farshadl123.github.io/posts/dashboards-copy/</link>
+			<link>/posts/dashboards-copy/</link>
 			<pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
 			
-			<guid>farshadl123.github.io/posts/dashboards-copy/</guid>
+			<guid>/posts/dashboards-copy/</guid>
 			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
 			<content type="html"><![CDATA[
 
@@ -133,10 +133,10 @@
 		
 		<item>
 			<title>Dashboards</title>
-			<link>farshadl123.github.io/posts/dashboards/</link>
+			<link>/posts/dashboards/</link>
 			<pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
 			
-			<guid>farshadl123.github.io/posts/dashboards/</guid>
+			<guid>/posts/dashboards/</guid>
 			<description>Dashboards are a great idea - just poorly executed
  Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &amp;ldquo;dashboards&amp;rdquo; (at the corporate level or team) are meant to be a &amp;lsquo;at-a-glance&amp;rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</description>
 			<content type="html"><![CDATA[<blockquote>
@@ -158,6 +158,19 @@ Car/pilot dashboards have flashing symbols indicating a specific condition arise
 </ol>
 
 <p>For instance, if our weekly revenue new ARR drops 10% below a rolling average, a specific action will be taken. Or, with the launch of a new Starter plan, if 60-day churn exceeds X or expansion is below Y then we do XYZ do correct for it.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>first post</title>
+			<link>/posts/my-first-post/</link>
+			<pubDate>Thu, 07 Jun 1990 00:00:00 +0000</pubDate>
+			
+			<guid>/posts/my-first-post/</guid>
+			<description> I was born </description>
+			<content type="html"><![CDATA[
+
+<h1 id="i-was-born">I was born</h1>
 ]]></content>
 		</item>
 		
