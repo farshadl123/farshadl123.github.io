@@ -131,5 +131,35 @@
 ]]></content>
 		</item>
 		
+		<item>
+			<title>Dashboards</title>
+			<link>farshadl123.github.io/posts/dashboards/</link>
+			<pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
+			
+			<guid>farshadl123.github.io/posts/dashboards/</guid>
+			<description>Dashboards are a great idea - just poorly executed
+ Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &amp;ldquo;dashboards&amp;rdquo; (at the corporate level or team) are meant to be a &amp;lsquo;at-a-glance&amp;rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</description>
+			<content type="html"><![CDATA[<blockquote>
+<p>Dashboards are a great idea - just poorly executed</p>
+</blockquote>
+
+<p>Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &ldquo;dashboards&rdquo; (at the corporate level or team) are meant to be a &lsquo;at-a-glance&rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</p>
+
+<p>Sadly, dashboards are a wasted resource. When dashboards are designed, they aren&rsquo;t done so with a specific decisions in mind or with specified trigger conditions for action. In fact, dashboards are made with the hope that when the &ldquo;right or wrong conditions&rdquo; arise in the data, the manager or team will recognize the need to act and will already know what that action is in detail.</p>
+
+<p>In summary, we have lots of diverse data sources feeding into a dashboard that reflects 5, 10 or up to 15 metrics/charts/dials which in turn is then consumed by an individual(s) with the expectation that when the right conditions arise they will know what to do</p>
+
+<ol>
+<li>How will we even know when the &ldquo;right condition&rdquo; appears if not defined?
+Car/pilot dashboards have flashing symbols indicating a specific condition arise. when your gas light turns on, you know it means you need to fill up. When your tire symbol turns on, you know you need to investigate to see if theres a nail in your tail</li>
+<li>How will we know what to do?</li>
+<li>In the process of data &ndash;&gt; dashboard &ndash;&gt; human, the human is the weakest link</li>
+<li>This is analogous to measuring with a nano-gauge but cutting with an axe</li>
+</ol>
+
+<p>For instance, if our weekly revenue new ARR drops 10% below a rolling average, a specific action will be taken. Or, with the launch of a new Starter plan, if 60-day churn exceeds X or expansion is below Y then we do XYZ do correct for it.</p>
+]]></content>
+		</item>
+		
 	</channel>
 </rss>
