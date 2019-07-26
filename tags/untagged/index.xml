@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Farshad L. Miraftab</title>
-    <link>farshadl123.github.io/tags/untagged/</link>
+    <link>/tags/untagged/</link>
     <description>Recent content in untagged on Farshad L. Miraftab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 07 Jun 1990 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="farshadl123.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first post</title>
-      <link>farshadl123.github.io/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Thu, 07 Jun 1990 00:00:00 +0000</pubDate>
       
-      <guid>farshadl123.github.io/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description> I was born </description>
     </item>
     
