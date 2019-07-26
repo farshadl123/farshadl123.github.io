@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>decision making on Farshad L. Miraftab</title>
-    <link>/tags/decision-making/</link>
+    <link>farshadl123.github.io/tags/decision-making/</link>
     <description>Recent content in decision making on Farshad L. Miraftab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="farshadl123.github.io/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dashboards</title>
-      <link>/posts/dashboards/</link>
+      <link>farshadl123.github.io/posts/dashboards/</link>
       <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>/posts/dashboards/</guid>
+      <guid>farshadl123.github.io/posts/dashboards/</guid>
       <description>Dashboards are a great idea - just poorly executed
  Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &amp;ldquo;dashboards&amp;rdquo; (at the corporate level or team) are meant to be a &amp;lsquo;at-a-glance&amp;rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</description>
     </item>
