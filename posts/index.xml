@@ -132,26 +132,49 @@
 		</item>
 		
 		<item>
-			<title>Dashboards</title>
+			<title>Dashboards: A great idea, just poorly executed</title>
 			<link>https://farshadl123.github.io/posts/dashboards/</link>
 			<pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
 			
 			<guid>https://farshadl123.github.io/posts/dashboards/</guid>
 			<description>Dashboards are a great idea - just poorly executed
- Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &amp;ldquo;dashboards&amp;rdquo; (at the corporate level or team) are meant to be a &amp;lsquo;at-a-glance&amp;rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</description>
-			<content type="html"><![CDATA[<blockquote>
+ Nearly all organizations or teams have some form of dashboard that they monitor on some basis. Dashboards come in various shapes and sizes, with various audiences from engineers all the way to execute leadership, including data related to financial, project projections, user engagement or anything that an individual or team feels they need to know a regular basis.</description>
+			<content type="html"><![CDATA[
+
+<blockquote>
 <p>Dashboards are a great idea - just poorly executed</p>
 </blockquote>
 
-<p>Challenge of trying to connect measurement/data to decisions starts at the highest level of an organization. For instance, &ldquo;dashboards&rdquo; (at the corporate level or team) are meant to be a &lsquo;at-a-glance&rsquo; summaries of some sort of performance. These dashboards usually entail dials, gauges, charts, graphs, and values much like actual pilot or car dashboards. The data that feeds those images can be financial, revenue, projections, user behavior metrics, or anything that a manager feels they need to know on a regular basis.</p>
+<p>Nearly all organizations or teams have some form of dashboard that they monitor on some basis. Dashboards come in various shapes and sizes, with various audiences from engineers all the way to execute leadership, including data related to financial, project projections, user engagement or anything that an individual or team feels they need to know a regular basis.</p>
 
-<p>Sadly, dashboards are a wasted resource. When dashboards are designed, they aren&rsquo;t done so with a specific decisions in mind or with specified trigger conditions for action. In fact, dashboards are made with the hope that when the &ldquo;right or wrong conditions&rdquo; arise in the data, the manager or team will recognize the need to act and will already know what that action is in detail.</p>
+<p>Although dashboards intend to play a critical part in quantifying and understanding the health of the business through the use metrics, charts, dials, and visuals my guess is over 75% of dashboards in an organization have been abandoned within the first several months of creation. The goal, and consequently challenge of dashboards is trying to connect some form of measurement/data to decisions. Unfortunately, today, most dashboards are not connected to a decision but rather have turned into an &lsquo;at-a-glance&rsquo; summaries of some sort of performance.  More often than not, these summaries are vague.</p>
 
-<p>In summary, we have lots of diverse data sources feeding into a dashboard that reflects 5, 10 or up to 15 metrics/charts/dials which in turn is then consumed by an individual(s) with the expectation that when the right conditions arise they will know what to do</p>
+<p>Let&rsquo;s take a dashboard that most of us are familiar with; our car dashboard [INSERT CAR DASHBOARD IMAGE]. When your gas tank light turns on, it is very clear what specific action needs to be taken. The light warns the driver that they need fuel their car if they want to continue driving. There is no and should be no confusion.  Sadly, dashboards are a wasted resource. When dashboards are designed, they aren&rsquo;t done so with a specific decisions or actions in mind. The trigger conditions (ie car range &lt; 30 miles) aren&rsquo;t articulated. In fact, dashboards are made with the hope that when the &ldquo;right or wrong conditions&rdquo; arise in the data, the manager or team will recognize the need to act and will already know what that action is in detail.</p>
+
+<p>Below are a few steps to take when designing a dashboard:</p>
+
+<h2 id="1-understand-the-decisions-actions-associated-to-the-dashboard">1. Understand the decisions/actions associated to the dashboard</h2>
+
+<p>Take a step back and beginning by understanding how the dashboard is intended to drive a specific action. Examples include:
+- identify and <em>engage</em> at-risk customers
+- identify behind-schedule projects</p>
+
+<h2 id="2-specify-the-trigger-condition">2. Specify the trigger condition</h2>
+
+<p>Much like the gas light in your dashboard, when your cars range is below 30 miles, the light is triggered indicating time for fuel. The same thresholds should be specified for your dashboards. Using same examples above:
+- If a customer risk score is above $1,000
+- if the project is behind schedule by atleast 1 week</p>
+
+<p>These quantifiable metrics are the thresholds that will trigger, in most cases, a human to intervene and perform a specific action</p>
+
+<h2 id="3-articulate-your-decision">3. Articulate your decision</h2>
+
+<p>Much like the gas light in your dashboard, when your cars range is below 30 miles, the light is triggered indicating time for fuel. The same thresholds should be specified for your dashboards. Using same examples above:
+- If a customer risk score is above $1,000
+- if the project is behind schedule by atleast 1 week</p>
 
 <ol>
-<li>How will we even know when the &ldquo;right condition&rdquo; appears if not defined?
-Car/pilot dashboards have flashing symbols indicating a specific condition arise. when your gas light turns on, you know it means you need to fill up. When your tire symbol turns on, you know you need to investigate to see if theres a nail in your tail</li>
+<li>How will we even know when the &ldquo;right condition&rdquo; appears if not defined?</li>
 <li>How will we know what to do?</li>
 <li>In the process of data &ndash;&gt; dashboard &ndash;&gt; human, the human is the weakest link</li>
 <li>This is analogous to measuring with a nano-gauge but cutting with an axe</li>
